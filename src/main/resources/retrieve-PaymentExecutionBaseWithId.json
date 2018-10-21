@@ -1,0 +1,8 @@
+{
+  "paymentOrder" : "object",
+  "paymentExecutionServiceStatus" : "Initiated",
+  "paymentExecutionTransactionReference" : "PTRE4545",
+  "paymentOrderRequestReference" : "PESR3434",
+  "paymentExecutionServiceReference" : "PESR3434",
+  "paymentOrderReference" : "POR72345324"
+}

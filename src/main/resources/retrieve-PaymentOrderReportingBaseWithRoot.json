@@ -1,0 +1,17 @@
+{
+  "date" : "2018-08-28T00:00:00.000Z",
+  "payerProductInstanceReference" : "PPIR2467",
+  "amount" : "$5000",
+  "paymentOrderInitiatorReference" : "POIR4949",
+  "payeeReference" : "PAEE5007",
+  "payeeProductInstanceReference" : "PARR6400",
+  "payerBankReference" : "PYBR1093",
+  "payeeBankReference" : "PEBR2783",
+  "dateType" : "Order",
+  "payerReference" : "PYRE5345",
+  "paymentOrderStatus" : "Initiated",
+  "currency" : "USD",
+  "paymentOrderRequestReference" : "PDRE9456",
+  "paymentOrderReportingReference" : "PDRE9408",
+  "paymentMechanism" : "NEFT"
+}

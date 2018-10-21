@@ -1,0 +1,9 @@
+{
+  "paymentExecutionReference" : "PER723475324",
+  "productInstanceReference" : "for default settlement instructions",
+  "settlementInstructions" : "can be defined as part of the payment or determined at execution",
+  "paymentOrderStatus" : "authorization",
+  "interestedParties" : "authorizing",
+  "paymentOrderRequestReference" : "PDRE9408",
+  "paymentOrderReference" : "PDRE9408"
+}

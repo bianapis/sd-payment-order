@@ -1,0 +1,17 @@
+{
+  "date" : "09-07-2018",
+  "payerProductInstanceReference" : "PERR3438",
+  "amount" : "$2000",
+  "paymentOrderInitiatorReference" : "source",
+  "payeeReference" : "POPR72354",
+  "payeeProductInstanceReference" : "PI73453145",
+  "payerBankReference" : "PRIR5859",
+  "payeeBankReference" : "PEIR5859",
+  "paymentMechanismType" : "Mechanism Type",
+  "paymentMechanismProperties" : "specific payment instructions",
+  "dateType" : "interest bearing",
+  "payerReference" : "PA7753535",
+  "currency" : "USD",
+  "paymentOrderRequestReference" : "CR7735345",
+  "paymentMechanismReference" : "SWIFT"
+}

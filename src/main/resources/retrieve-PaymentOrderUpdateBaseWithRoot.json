@@ -1,0 +1,18 @@
+{
+  "date" : "2018-08-28",
+  "payerProductInstanceReference" : "payer account number",
+  "amount" : "$5000",
+  "paymentOrderUpdateDescription" : "ChangePaymentOrder",
+  "paymentOrderInitiatorReference" : "POIR1234",
+  "payeeReference" : "PAEE5007",
+  "payeeProductInstanceReference" : "PPIR3456",
+  "payerBankReference" : "PYBR1093",
+  "payeeBankReference" : "PEBR2783",
+  "paymentOrderUpdateReference" : "POUR7676",
+  "paymentOrderUpdateResult" : "Success",
+  "dateType" : "Order",
+  "payerReference" : "PYRE5345",
+  "currency" : "USD",
+  "paymentOrderRequestReference" : "PDRE9408",
+  "paymentMechanism" : "ACH"
+}

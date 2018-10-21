@@ -1,0 +1,17 @@
+{
+  "date" : "2018-09-07",
+  "payerProductInstanceReference" : "PPRE4545",
+  "amount" : "$5000",
+  "paymentOrderInitiatorReference" : "POIR4545",
+  "payeeReference" : "PTRE4545",
+  "payeeProductInstanceReference" : "PTRE4545",
+  "payerBankReference" : "PBRE4545",
+  "payeeBankReference" : "PTRE4545",
+  "paymentMechanismType" : "Type",
+  "paymentMechanismProperties" : "specific payment instructions",
+  "dateType" : "order",
+  "payerReference" : "PYRE4545",
+  "currency" : "USD",
+  "paymentOrderRequestReference" : "PORR4545",
+  "paymentMechanismReference" : "ACH"
+}
